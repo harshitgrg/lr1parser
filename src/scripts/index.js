@@ -1,8 +1,7 @@
-'use strict';
+// 'use strict';
 
-import 'normalize.css';
-import '../styles/index.scss';
-import Lr1ParserVis from './Lr1ParserVis';
+// import '../styles/index.scss';
+import Lr1ParserVis from './Lr1ParserVis.js';
 
 document.addEventListener('DOMContentLoaded', () => {
 
